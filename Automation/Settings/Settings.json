@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Automation": {
+      "commandName": "Project",
+      "environmentVariables": {
+
+        "Google": "https://Google.com.br"
+      }
+    }
+  }
+}
