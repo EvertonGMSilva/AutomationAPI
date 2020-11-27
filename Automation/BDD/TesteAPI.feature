@@ -1,7 +1,6 @@
 ﻿#language:pt-BR
 
 Funcionalidade:1 TesteAPI
-Contexto: 
 
 
 Esquema do Cenário: Api weather
